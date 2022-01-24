@@ -6,6 +6,7 @@ Mathematics for Data scientist
 - This repository contains simple implementations of indirect and direct methods for solving linear systems
 - Direct methods : decomposition LU, Cholesky factorisation
 - Indirect methods :  Jocabian, Gauss-Seidel
+- Others methods : QR , Gram-Shmidt, SVD
 
 ## Authors :
 

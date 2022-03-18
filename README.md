@@ -16,7 +16,8 @@ Mathematics for Data scientist
 - Indirect methods :  Jocabian, Gauss-Seidel, SOR (ou de relaxation).
 
 2. Approximation & Optimisation :
-- ...
+- Contains the mother of algorithms : Newton algorithm (Newton-Raphson method)
+- Contains Quasi-Newton method and descent method
 
 
 3. Statistics & Probability :
